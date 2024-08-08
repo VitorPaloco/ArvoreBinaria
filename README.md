@@ -15,6 +15,7 @@
       <li>Nó folha: remoção de nó que não possui filhos em nenhuma direção</li>
       <li>Nó com um filho: remove o nó que possue apenas um filho</li>
       <li>Nó com dois filhos: remove o nó que possue filho tanto na direita quanto na esquerda</li>
+      <li>Nó raiz: para casos onde o nó a ser removido for a raiz, será aplicado um dos três casos acima</li>
   </ul>
 
   <h2>Contato</h2>
